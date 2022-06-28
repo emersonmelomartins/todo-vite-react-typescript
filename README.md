@@ -1,8 +1,7 @@
-<h1 align="center">
+<div align="center">
     <img src="./src/assets/logo.svg" />
-</h1>
-
-<br>
+<h1 align="center">To-Do List App</h1>
+</div>
 
 ## Projeto
 
