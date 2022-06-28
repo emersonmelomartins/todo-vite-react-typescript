@@ -11,7 +11,7 @@ Uma aplicação "To-Do List" simples para anotação de tarefas que foi desenvol
 
 <p align="left">
   <img src="./src/assets/preview/preview-1.png" width=400 alt="Página Inicial da aplicação sem tarefas" />
-  <img src="./src/assets/preview/preview-1.png" width=400 alt="Página Inicial da aplicação com algumas tarefas completas" />
+  <img src="./src/assets/preview/preview-2.png" width=400 alt="Página Inicial da aplicação com algumas tarefas completas" />
 </p>
 
 ## Layout
