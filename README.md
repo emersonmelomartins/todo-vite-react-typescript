@@ -35,7 +35,6 @@ Basta clonar ou baixar o projeto e acessar sua pasta.
 
 ```bash
 $ git clone https://github.com/emersonmelomartins/todo-vite-react-typescript.git
-$ cd nlw-letmeask
 ```
 
 Após clonar, seguir os passos abaixo para iniciá-lo:
