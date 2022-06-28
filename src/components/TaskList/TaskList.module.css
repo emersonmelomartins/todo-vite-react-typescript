@@ -1,0 +1,23 @@
+.taskList {
+  margin: 1.5rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  width: 100%;
+}
+
+.taskEmpty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.taskEmpty img {
+  margin-bottom: 1rem;
+}
+
+.taskEmpty strong {
+  line-height: 1.4;
+}

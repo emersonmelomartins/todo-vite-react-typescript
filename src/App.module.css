@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+.taskContainer {
+  max-width: 48rem;
+  width: 100%;
+  margin: -2.5rem auto 0;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.taskForm {
+  display: flex;
+  justify-content: stretch;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
