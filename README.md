@@ -45,7 +45,7 @@ Com NPM:
 $ npm install
 
 # Iniciar o projeto
-$ npm dev
+$ npm run dev
 ```
 
 Com YARN:
